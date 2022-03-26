@@ -1,1 +1,1 @@
-# NFT Discord verify app
+# Can Opener Discord verify app
