@@ -86,8 +86,10 @@
         sigMsg: signingMessage,
       })
       alert('verify success')
+      window.close()
     } catch (error) {
       alert('verify failed')
+      window.close()
     }
   }
 </script>
